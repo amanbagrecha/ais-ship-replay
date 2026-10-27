@@ -1,0 +1,9 @@
+[project]
+name = "ais-ship-replay"
+version = "0.1.0"
+description = "3D replay of one day of AIS ship traffic in a US port, read live from the Fused /h3/query endpoint."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false
